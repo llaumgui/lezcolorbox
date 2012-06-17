@@ -5,7 +5,7 @@
     <name>design/standard/colorbox</name>
     <message>
         <source>image current of total</source>
-        <translation>image {current] sur {total}</translation>
+        <translation>image {current} sur {total}</translation>
     </message>
     <message>
         <source>previous</source>
