@@ -1,9 +1,5 @@
 Introduction
 ============
-leZColorBox is an implementation of [ColorBox](http://www.jacklmoore.com/colorbox) in [eZ Publish](http://ez.no).
-
-Continuous integration
-======================
-leZColorBox is under continuous integration: [http://ci.llaumgui.com/job/leZColorBox/](http://ci.llaumgui.com/job/leZColorBox/)
+leZColorBox is an implementation of [ColorBox](http://www.jacklmoore.com/colorbox) in [eZ Publish](http://ez.no) 4.
 
 ![eZ Publish Certified Developer](http://www.llaumgui.com/images/ezcertdev.png)
